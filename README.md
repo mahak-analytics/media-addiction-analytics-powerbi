@@ -83,7 +83,7 @@ Please refer to the original source for the dataset and its applicable licensing
 
 ## How to open
 
-Download `dashboard/addiction-social-media-analytics-powerbi.pbix` and open it in Power BI Desktop. If the data source path breaks, update it under Transform data → Data source settings.
+Download [dashboard/addiction-social-media-analytics-powerbi.pbix](dashboard/addiction-social-media-analytics-powerbi.pbix) and open it in Power BI Desktop. If the data source path breaks, update it under Transform data → Data source settings.
 
 ## Author
 
