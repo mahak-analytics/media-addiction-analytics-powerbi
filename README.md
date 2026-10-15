@@ -58,7 +58,7 @@ Please refer to the original source for the dataset and its applicable licensing
 
 - **Power Query:** type changes, null checks.
 - **Calculated column:** `Usage Band` groups daily usage into under 3, 3-4, 4-5, 5-6 and 6+ hours. `Usage Band Order` sorts the bands.
-- **Measures:** `Participant Count` and `Self Reported Impact`. DAX for each is in [docs/measures.md](docs/measures.md).
+- **Measures:** `Participant Count` and `Self Reported Impact`. DAX for each is in [measures.md](measures.md).
 - **Model:** one flat table with no relationships.
 
 ## Limitations
