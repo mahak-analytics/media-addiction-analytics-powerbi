@@ -75,10 +75,7 @@ Please refer to the original source for the dataset and its applicable licensing
 ├── README.md
 ├── dashboard/
 │   └── addiction-social-media-analytics-powerbi.pbix
-├── data/
-│   └── README.md          
-├── docs/
-│   └── measures.md
+├── measures.md
 └── images/
     ├── overview.png
     └── relationships.png
